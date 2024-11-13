@@ -21,27 +21,27 @@ GoTravel is a mobile application built with React Native, using Firebase as the 
 
    ```bash
    git clone https://github.com/your-username/gotravel.git
-Navigate to the project directory:
+2. Navigate to the project directory:
 
-bash
-Sao chép mã
-cd gotravel
-Install dependencies:
+   ```bash
+   Sao chép mã
+   cd gotravel
+3. Install dependencies:
 
      ```bash
     npm install
-    Run the app:
+4. Run the app:
 
      ```bash
     npx react-native run-android  # For Android
     npx react-native run-ios      # For iOS
-Contributing
-Fork the repository.
-Create a new branch (git checkout -b feature-name).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-name).
-Open a pull request.
-License
+## Contributing
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-name).
+3. Commit your changes (git commit -am 'Add new feature').
+4. Push to the branch (git push origin feature-name).
+5. Open a pull request.
+## License
 MIT
 ```csharp
 You can customize this further based on the specific functionalities or features of your GoTravel app.
